@@ -1,0 +1,19 @@
+Tests Output
+
+CullenFraySummary
+summary statistics
+------
+min:  -14   max:  20 
+median:  0 
+mean:  0.07669323 
+estimated sd:  1.492118 
+estimated skewness:  2.944834 
+estimated kurtosis:  49.20042 
+summary statistics
+------
+min:  -14   max:  20 
+median:  0 
+mean:  0.07669323 
+estimated sd:  1.492118 
+estimated skewness:  2.944834 
+estimated kurtosis:  49.20042 
